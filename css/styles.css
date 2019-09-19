@@ -1,0 +1,40 @@
+.jumbotron {
+    background-image: linear-gradient(rgb(199, 186, 68),rgb(184, 141, 60));
+    text-align: center;
+}
+#p1{
+    padding: 30px;
+}
+
+#head1 {
+    background-image: linear-gradient(rgb(231, 168, 49),rgb(184, 60, 60));
+    text-align: center;
+}
+
+#head3  {
+    background-image: linear-gradient(rgb(104, 161, 247),rgb(250, 173, 218));
+    text-align: center;
+}
+
+
+#head2 {
+    background-image: linear-gradient(green,gray);
+    text-align: center;
+}
+
+#p6{
+    padding: 20px;
+}
+
+#p12{
+    margin: 50px;
+    text-align: center;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+}
